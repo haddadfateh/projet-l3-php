@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE operations SYSTEM "histo.dtd">
+<operations>
+    <operation>
+        <type>other</type>
+        <horodate>2022-11-29 16:13:46</horodate>
+        <desc>Création du fichier XML</desc>
+    </operation>
+<operation><type>modifications_pokemon</type><horodate>2023-03-21 21:52:38</horodate><desc> La taille (12-&gt; 12 ) et le poids (12-&gt;12) de $ivysaur [ id = 2 ] ont été modifiés</desc></operation><operation><type>modifications_pokemon</type><horodate>2023-03-21 21:52:44</horodate><desc> La taille (20-&gt; 25 ) et le poids (30-&gt;36) de $bulbasaur [ id = 1 ] ont été modifiés</desc></operation><operation><type>modifications_pokemon</type><horodate>2023-03-21 22:09:44</horodate><desc> La taille (25-&gt; 12 ) et le poids (36-&gt;12) de bulbasaur [ id = 1 ] ont été modifiés</desc></operation></operations>

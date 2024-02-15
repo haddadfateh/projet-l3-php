@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT operations (operation+) >
+<!ELEMENT operation (type, horodate, desc) >
+
+<!ELEMENT type (#PCDATA) >
+<!ELEMENT horodate (#PCDATA) >
+<!ELEMENT desc (#PCDATA) >
